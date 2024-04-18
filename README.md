@@ -91,28 +91,28 @@
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-# O que eu faço:
+# About me:
   
-💻 Estou comprometido em aprender diversas linguagens de programação, incluindo Python, JavaScript, Java e outras, para construir uma base sólida em minha carreira.
-📚 Estou cursando Análise e Desenvolvimento de Sistemas, onde aprofundo meu conhecimento em conceitos-chave de desenvolvimento de software.
-🔥 Estou constantemente em busca de desafios e oportunidades para crescer como desenvolvedor.
+💻 I am committed to learning diverse programming languages including Python, JavaScript, Java and others to build a solid foundation in my career. 
+📚 I am studying Systems Analysis and development, where I deepen my knowledge in key concepts of software development. 
+🔥 I am constantly looking for challenges and opportunities to grow as a developer.
 
-# O que você encontrará nos meus repositórios:
+# What you'll find in my repositories:
 
-*Projetos pessoais e exercícios de aprendizado em diversas linguagens de programação.
+* Personal projects and learning exercises in various programming languages.
 
-# Como você pode entrar em contato comigo:
+# How can you contact me:
 
-📫 Você pode me enviar um e-mail em [adamshans@protonmail.com]
-💬 Estou ansioso para conectar com outros entusiastas da programação. Vamos trocar experiências e aprender juntos eaté mesmo trabalharmos juntos!
+📫 You can email me at [adamshans@protonmail.com]
+💬 I look forward to connecting with other programming enthusiasts. Let's exchange experiences and learn together andeven work together!
 
-# Algo a mais sobre mim:
+# Something more about me:
 
-🙏 Sou cristão e minha fé é uma parte importante da minha vida, moldando meus valores e perspectivas.
-👨‍👩‍👧 Passar tempo com minha família é uma prioridade para mim.
-⛺️ Nas horas vagas, adoro acampar e estar em contato com a natureza.
+🙏 I am a Christian and my faith is an important part of my life, shaping my values and outlook.
+👨  👩  👧 Spending time with my family is a priority for me.
+⛺️ In my spare time, I love camping and being in touch with nature.
 
-  - 🔭 Estou determinado a crescer e contribuir de forma significativa em um ambiente de trabalho dinâmico e colaborativo. Se você está em busca de um profissional motivado e dedicado, estou pronto para abraçar essa oportunidade e fazer a diferença!
+- 🔭 I am determined to grow and contribute meaningfully in a dynamic and collaborative work environment. If you are looking for a motivated and dedicated professional, I am ready to embrace this opportunity and make a difference!
  
 
 
