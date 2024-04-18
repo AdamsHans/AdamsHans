@@ -1,12 +1,12 @@
 
 ### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hello! Good to see you. ​​
 
-<p>Welcome to my page!</br> I'm Adams Hans, Fullstack Developer from, currently living in <img src="https://www.curitiba.pr.leg.br/atividade-parlamentar/legislacao/imagens/bandeira-do-brasil.png/image" width="13"/> <b> Petrolina, Brazil</b>. </p>
+<p> 💻 Welcome to my page!</br> 🌱 I'm Adams Hans, Fullstack Developer from, currently living in <img src="https://www.curitiba.pr.leg.br/atividade-parlamentar/legislacao/imagens/bandeira-do-brasil.png/image" width="13"/> <b> Petrolina, Brazil</b>. </p>
 
 
 
 
- <p align="center">I ❤️ solve great challenges using tech. <br><br>Studying System Analysis and Development I am passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, .</p>&nbsp;
+ <p align="center">I solve great challenges using technology.. <br><br>Studying System Analysis and Development I am passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, .</p>&nbsp;
 
 
 </div>
