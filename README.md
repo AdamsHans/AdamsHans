@@ -1,4 +1,6 @@
-<img src = "banner.gif" width = "325px" align = "right">
+<img src="https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/banner.gif" width="325px" align="right">
+
+
 
 # ❤ Olá, bom ter você por aqui!
 
