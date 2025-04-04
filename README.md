@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AdamsHans/Adams-Hans/main/custom_programmer_image.png" width="500px"/>
+  <img src="https://github.com/AdamsHans/AdamsHans/blob/main/IMG-20250401-WA0027.jpg" width="500px"/>
 </div>
 
 > 💡 _"O aprendizado é infinito, e cada linha de código é uma oportunidade de crescimento."_  
