@@ -27,7 +27,7 @@
 
 💻 Especializado em **Python e desenvolvimento Back-End**, gosto de criar soluções eficientes e escaláveis. Tenho experiência com **Django, automação de processos, análise de dados, Machine Learning e Quality Assurance (QA)**.  
 
-🎓 Atualmente, estou cursando **Engenharia de Software** e aprimorando minhas habilidades em **Análise de Dados, Inteligência Artificial e Automação de Processos**.  
+🎓 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** e aprimorando minhas habilidades em **Análise de Dados, Inteligência Artificial e Automação de Processos**.  
 
 🚀 Minha missão? **Transformar ideias em soluções tecnológicas impactantes!**  
 
@@ -44,6 +44,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter" width="60" height="60"/>
 </div>  
+
+### 📊 Tecnologias mais usadas  
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Automação-Processos-green?style=for-the-badge"/>
+</div>
 
 <br>
 
@@ -63,13 +72,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdamsHans&show_icons=true&theme=bear&count_private=true"/>
 </div>  
 
+
 ---
 
 ### 🤝 Vamos colaborar?  
 
 Se você gosta de aprender, criar ou discutir novas ideias, **vamos trocar experiências!** Estou sempre aberto a novas conexões e projetos interessantes.  
 
-📞 **Contato:** (74) 98807-1617  
+📞 **Contato:** (74) 98807-1617 (WhatsApp) 
 📫 **E-mail:** adamsmonteiro@hotmail.com  
 🔗 **LinkedIn:** [Adams Hans](https://www.linkedin.com/in/adamshans/)  
 
