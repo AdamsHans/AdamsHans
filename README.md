@@ -1,53 +1,76 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AdamsHans/Adams-Hans/main/Banner.gif" width="310px">
+  <img src="https://raw.githubusercontent.com/AdamsHans/Adams-Hans/main/animated_programmer.gif" width="310px">
 </div>
 
+# 🚀 Olá, bem-vindo ao meu universo tech!  
 
-# ❤ Olá, bom ter você por aqui
-<div id="badges">
+<div align="center">
   <a href="https://www.linkedin.com/in/adamshans/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/adamshans7/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-</div>
+</div>  
 
 ---
 
-O APRENDIZADO É INFINITO, E CADA LINHA DE CÓDIGO É UMA OPORTUNIDADE DE CRESCIMENTO." 💡
-
-
-Sou o Adams, desenvolvedor em constante evolução e entusiasta da tecnologia! 🚀
-
-🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas e mergulhando em diversas áreas da programação.
-
-💻 Tenho uma paixão especial por Python e Django, mas estou sempre explorando novas tecnologias e metodologias que possam impactar positivamente a forma como trabalhamos e vivemos.
-
-🤖 Também adoro automação de processos com pandas e pyautogui, buscando soluções inteligentes para tornar o dia a dia mais eficiente.
-
-🌱 Acredito que, além do código, a colaboração e o compartilhamento de ideias são essenciais para o sucesso.
-
-📬 Se você gosta de aprender, criar ou colaborar em projetos interessantes, fique à vontade para me chamar por aqui ou no LinkedIn!
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="60" height="60"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="60" height="60"/>&nbsp;
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AdamsHans/Adams-Hans/main/custom_programmer_image.png" width="500px"/>
 </div>
 
-<table>
-<tr>
-<div align = "left">
-<img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamsHans&show_icons=true&theme=bear&count_private=true"/>
-<img height = "150em" src="https://github-readme-stats.vercel.app/api?username=AdamsHans&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+> 💡 _"O aprendizado é infinito, e cada linha de código é uma oportunidade de crescimento."_  
+
+### Quem sou eu?  
+
+👋 Me chamo **Adams Hans**, um desenvolvedor apaixonado por tecnologia e inovação! Sou movido pela curiosidade e pela busca constante por conhecimento.  
+
+💻 Especializado em **Python e desenvolvimento Back-End**, gosto de criar soluções eficientes e escaláveis. Tenho experiência com **Django, automação de processos, análise de dados, Machine Learning e Quality Assurance (QA)**.  
+
+🎓 Atualmente, estou cursando **Engenharia de Software** e aprimorando minhas habilidades em **Análise de Dados, Inteligência Artificial e Automação de Processos**.  
+
+🚀 Minha missão? **Transformar ideias em soluções tecnológicas impactantes!**  
+
+---
+
+### 💡 Tecnologias & Ferramentas  
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter" width="60" height="60"/>
+</div>  
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/QA-Quality%20Assurance-blue?style=for-the-badge" alt="QA Badge"/>&nbsp;
+  <img src="https://img.shields.io/badge/Back--end-Developer-yellow?style=for-the-badge" alt="Back-end Badge"/>&nbsp;
+  <img src="https://img.shields.io/badge/Machine%20Learning-AI-red?style=for-the-badge" alt="Machine Learning Badge"/>
 </div>
+  
 
- 
+---
 
- 
+### 📊 Estatísticas  
 
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamsHans&show_icons=true&theme=bear&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdamsHans&show_icons=true&theme=bear&count_private=true"/>
+</div>  
 
+---
 
+### 🤝 Vamos colaborar?  
 
+Se você gosta de aprender, criar ou discutir novas ideias, **vamos trocar experiências!** Estou sempre aberto a novas conexões e projetos interessantes.  
+
+📞 **Contato:** (74) 98807-1617  
+📫 **E-mail:** adamsmonteiro@hotmail.com  
+🔗 **LinkedIn:** [Adams Hans](https://www.linkedin.com/in/adamshans/)  
+
+🚀 _"A tecnologia move o mundo, e eu quero fazer parte dessa revolução!"_  
