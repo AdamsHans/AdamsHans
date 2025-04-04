@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AdamsHans/Adams-Hans/main/animated_programmer.gif" width="310px">
+  <img src="https://raw.githubusercontent.com/AdamsHans/AdamsHans/main/animated_programmer.gif" width="310px">
 </div>
 
 # 🚀 Olá, bem-vindo ao meu universo tech!  
@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/AdamsHans/AdamsHans/blob/main/IMG-20250401-WA0027.jpg" width="500px"/>
+  <img src="https://raw.githubusercontent.com/AdamsHans/AdamsHans/main/IMG-20250401-WA0027.jpg" width="500px"/>
 </div>
 
 > 💡 _"O aprendizado é infinito, e cada linha de código é uma oportunidade de crescimento."_  
@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Automação-Processos-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automação-Processos-green?style=for-the-badge"/>
 </div>
 
 <br>
@@ -72,15 +72,16 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdamsHans&show_icons=true&theme=bear&count_private=true"/>
 </div>  
 
-
 ---
 
 ### 🤝 Vamos colaborar?  
 
 Se você gosta de aprender, criar ou discutir novas ideias, **vamos trocar experiências!** Estou sempre aberto a novas conexões e projetos interessantes.  
 
-📞 **Contato:** (74) 98807-1617 (WhatsApp) 
+📞 **Contato:** (74) 98807-1617 (WhatsApp) <br>  
 📫 **E-mail:** adamsmonteiro@hotmail.com  
 🔗 **LinkedIn:** [Adams Hans](https://www.linkedin.com/in/adamshans/)  
 
-🚀 _"A tecnologia move o mundo, e eu quero fazer parte dessa revolução!"_  
+---
+
+<p align="center">✨ Desenvolvido com dedicação por <b>Adams Hans</b> ✨</p>
