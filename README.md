@@ -28,32 +28,45 @@
 
 ---
 
-<table style="border: none;">
+<div align="center">
+  <h2>🇺🇸 About Me | 🇧🇷 Sobre Mim</h2>
+</div>
+
+<table>
   <tr>
-    <td style="border: none;" align="left" width="50%">
+    <td valign="top" width="50%">
 
 ### 🇺🇸 About Me  
 
 👨‍💻 I'm **Adams Hans**, a passionate developer focused on innovation and smart solutions!  
+
 💻 Specialized in **Python and Back-End**, I create scalable systems with automation, data and usability in mind.  
+
 🎓 Currently studying **Systems Analysis and Development**, deepening in **AI, Data Analysis, and Process Automation**.  
+
 🚀 My mission? Turn ideas into impactful tech solutions!  
+
 📍 Based in Petrolina - PE, open to relocation.
 
 </td>
-    <td style="border: none;" align="left" width="50%">
+    <td valign="top" width="50%">
 
 ### 🇧🇷 Sobre Mim  
 
 👨‍💻 Me chamo **Adams Hans**, um desenvolvedor apaixonado por tecnologia e inovação!  
+
 💻 Especializado em **Python e Back-End**, crio soluções eficientes com foco em automação, dados e usabilidade.  
+
 🎓 Estudando **Análise e Desenvolvimento de Sistemas** com foco em **IA, Análise de Dados e Automação de Processos**.  
+
 🚀 Minha missão? Transformar ideias em soluções tecnológicas impactantes!  
+
 📍 Localizado em Petrolina - PE, disponível para mudanças.
 
 </td>
   </tr>
 </table>
+
 
 ---
 
